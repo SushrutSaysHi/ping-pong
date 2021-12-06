@@ -1,0 +1,30 @@
+.heading {
+     width: 100%;
+     text-align: left;
+}
+
+.heading button {
+     float: right;
+}
+
+.heading h3 {
+     display: inline;
+}
+
+footer{
+     position:fixed;
+     color: white;
+     bottom: 0;
+     width: 100%;
+     background-color: black;
+     line-height: 3;
+     text-align: center;
+ }
+
+ canvas{
+      float: right;
+ }
+
+ video{
+      float: left;
+ }
